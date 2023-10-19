@@ -1,4 +1,67 @@
 {
+  "try_trecis_train_random_1": {
+    "file_name": "trecis/try_train-random-1.json"
+  },
+  "try_trecis_train_random_2": {
+    "file_name": "trecis/try_train-random-2.json"
+  },
+  "trecis-mc-train-random-1": {
+    "file_name": "trecis/mc-train-random-1.json"
+  },
+  "trecis-tag-train-random-1": {
+    "file_name": "trecis/tag-train-random-1.json"
+  },
+  "trecis-if-train-random-1": {
+    "file_name": "trecis/if-train-random-1.json"
+  },
+  "trecis-mc_tag-train-random-1": {
+    "file_name": "trecis/mc_tag-train-random-1.json"
+  },
+  "trecis-mc_tag-train-random-2": {
+    "file_name": "trecis/mc_tag-train-random-2.json"
+  },
+  "trecis-mc_tag_if-train-random-1": {
+    "file_name": "trecis/mc_tag_if-train-random-1.json"
+  },
+  "trecis-mc_if-train-random-1": {
+    "file_name": "trecis/mc_if-train-random-1.json"
+  },
+  "try_trecis_val": {
+    "file_name": "trecis/try_val.json"
+  },
+  "try_sampled_5000_test": {
+    "file_name": "trecis/try_sampled_5000_test.json"
+  },
+  "trecis_mc_val_top": {
+    "file_name": "trecis/top_val.json"
+  },
+  "trecis_mc_sampled_5000_test_top": {
+    "file_name": "trecis/top_sampled_5000_test.json"
+  },
+  "trecis_mc_val_high": {
+    "file_name": "trecis/high_val.json"
+  },
+  "trecis_mc_sampled_5000_test_high": {
+    "file_name": "trecis/high_sampled_5000_test.json"
+  },
+  "trecis_if_val_high": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-val.json"
+  },
+  "trecis_if_val_high_0": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-val.0.json"
+  },
+  "trecis_if_val_high_1": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-val.1.json"
+  },
+  "trecis_if_sampled_5000_test_high": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-sampled_5000_test.json"
+  },
+  "trecis_if_sampled_5000_test_high_0": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-sampled_5000_test.0.json"
+  },
+  "trecis_if_sampled_5000_test_high_1": {
+    "file_name": "trecis/high-InferenceInstructionTemplateGenerator_0-sampled_5000_test.1.json"
+  },
   "alpaca_en": {
     "file_name": "alpaca_data_en_52k.json",
     "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
